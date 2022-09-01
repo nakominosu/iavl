@@ -10,7 +10,7 @@ require (
 	github.com/golangci/golangci-lint v1.49.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.0
-	github.com/tendermint/tendermint v0.34.21
+	github.com/tendermint/tendermint v0.35.9
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 )
 
